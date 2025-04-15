@@ -1,0 +1,71 @@
+This is a placeholder resume for Ahashanul Haque Shuvo.
+
+AHASHANUL HAQUE SHUVO
+Junior Network Engineer & System Administrator
+Lalmonirhat, Bangladesh
+Phone: (+880) 1518-969172
+Email: net.shuvo.cse@gmail.com
+LinkedIn: linkedin.com/in/ahashanul-haque-shuvo
+GitHub: github.com/devshuvocse
+
+PROFESSIONAL SUMMARY
+Highly focused, self-driven Junior Network Engineer and System Administrator with expertise in network infrastructure, Linux systems, and automation. Passionate about building reliable networks and implementing self-healing systems.
+
+CORE COMPETENCIES
+• Network Design & Implementation
+• System Administration (Linux/Windows)
+• Network Security & Troubleshooting
+• Cloud Infrastructure Management
+• Python/Bash Scripting & Automation
+• TCP/IP, DNS, VLANs, OSPF, STP
+
+CERTIFICATIONS
+• CCNA (Cisco Certified Network Associate), 2024
+• CompTIA Network+, 2023
+• Linux Essentials (Linux Professional Institute), 2023
+
+TECHNICAL SKILLS
+Hardware: Cisco Routers/Switches, Aruba APs
+Tools: Wireshark, Packet Tracer, GNS3, PuTTY
+Protocols: TCP/IP, STP, VLAN, OSPF, DNS, DHCP
+Operating Systems: Linux (Ubuntu), Windows, Windows Server
+Commands: ping, tracert, netstat, ip, ifconfig, nslookup, route, iptables, ssh, nmap
+
+PROJECTS
+LAN_TALK - Offline LAN-based Communication System
+• Developed a communication system that works entirely on local networks without internet dependency
+• Implemented using React, WebRTC, MongoDB, Windows Server, and MikroTik
+• Enabled seamless communication for organizations with limited internet access
+
+Campus Network Design
+• Designed and implemented a complete campus network infrastructure supporting 500 users
+• Featured VLAN segmentation, OSPF routing, DHCP services, and NAT for internet access
+• Ensured efficient traffic management and network security
+
+Home Network Security Setup
+• Created a comprehensive home network security solution with ASA firewall implementation
+• Implemented DNS security, Access Control Lists (ACL), and Python automation scripts
+• Provided enterprise-level security for home environments
+
+EDUCATION
+Diploma in Computer Science
+Thakurgaon Polytechnic
+CGPA: 3.80
+
+Higher Secondary Certificate (HSC)
+Alimuddin College
+Group: Science
+
+EXTRACURRICULAR ACTIVITIES
+• General Secretary, TPI Computer Programming Club (CPC)
+• Cyber Safety Volunteer
+
+LANGUAGES
+• Bangla (Native)
+• English (Fluent)
+
+INTERESTS & FOCUS
+• Open-source networking tools
+• Blogging Linux tips
+• AI automation for technical workflows
+• Nmap for ethical scanning & analysis
